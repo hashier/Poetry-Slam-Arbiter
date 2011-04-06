@@ -8,7 +8,7 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.EditText;
 
-public class psa extends Activity implements OnClickListener {
+public class Psa extends Activity implements OnClickListener {
 	
 	private int mAvg = 0;
 	private int mCounter = 0;
